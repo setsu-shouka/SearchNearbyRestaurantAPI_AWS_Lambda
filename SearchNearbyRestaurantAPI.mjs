@@ -1,6 +1,6 @@
 import axios from "axios";
 
-const GOOGLE_API_KEY = "AIzaSyD9FFj1w7fHTiFX4U82ID_wclBCyss7uh4";
+const GOOGLE_API_KEY = "your_api_key";
 const NEARBY_SEARCH_URL = "https://maps.googleapis.com/maps/api/place/nearbysearch/json";
 const PLACE_DETAILS_URL = "https://maps.googleapis.com/maps/api/place/details/json";
 
